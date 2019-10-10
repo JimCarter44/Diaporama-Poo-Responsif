@@ -49,5 +49,5 @@ tutorial for a simple and responsive POO Slideshow
 - Initialize your new object and its own characteristics ( target id, pictures array, directory, duration)
 - Activate Prev() and Next() function at click or press keyboard
 
-** That's it, you've created and object-oriented, simple, reusable and fully responsive Javascript slideshow **
+** That's it, you've created an object-oriented, simple, reusable and fully responsive Javascript slideshow **
 --------------------------------------------------------------------------------------------------------------------
