@@ -1,0 +1,9 @@
+# https://www.jim-carter.fr
+
+# TEAM
+
+    Jim Carter - Freelance Developer
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5 , JAVASCRIPT, JQUERY

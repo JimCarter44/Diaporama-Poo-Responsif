@@ -1,0 +1,60 @@
+body {
+  background-color: #33393F;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: #171C20;
+  width: 100%;
+  z-index: 2000;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+
+header img {
+  width: 150px;
+  margin-left: 1%;
+}
+
+header p {
+  color: whitesmoke;
+  font-family: "Microsoft Sans Serif";
+  font-size: 2em;
+}
+
+/* Réglages CSS du Slider */
+/* CSS Slider Settings */
+#slide {
+  margin: 0;
+  padding: 0;
+}
+
+#diap1 {
+  width: 100%;
+  height: 100vh;
+}
+
+/* Position des flèches actionnables */
+/* Position of the arrows */
+#prev {
+  position: absolute;
+  top: 50%;
+  float: left;
+  left: 2%;
+  font-size: 3em;
+  color: whitesmoke;
+}
+
+#next {
+  position: absolute;
+  top: 50%;
+  float: right;
+  right: 2%;
+  font-size: 3em;
+  color: whitesmoke;
+}
