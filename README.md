@@ -50,3 +50,4 @@ tutorial for a simple and responsive POO Slideshow
 - Activate Prev() and Next() function at click or press keyboard
 
 ** That's it, you've created and object-oriented, simple, reusable and fully responsive Javascript slideshow **
+--------------------------------------------------------------------------------------------------------------------
